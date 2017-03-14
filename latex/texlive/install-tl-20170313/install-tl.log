@@ -1,0 +1,150 @@
+Trying to verify cryptographic signatures!
+Loading ftp://ftp.mpi-sb.mpg.de/pub/tex/mirror/ftp.dante.de/pub/tex/systems/texlive/tlnet/tlpkg/texlive.tlpdb
+Installing TeX Live 2016 from: ftp://ftp.mpi-sb.mpg.de/pub/tex/mirror/ftp.dante.de/pub/tex/systems/texlive/tlnet (verified)
+Platform: x86_64-linux => 'GNU/Linux on x86_64'
+Distribution: net  (downloading)
+Using URL: ftp://ftp.mpi-sb.mpg.de/pub/tex/mirror/ftp.dante.de/pub/tex/systems/texlive/tlnet
+Directory for temporary files: /tmp/EyZbOqRhBX
+Installer revision: 41646
+Database revision: 43485
+Settings:
+  TEXDIR: "/usr/local/texlive/2016"
+  TEXMFCONFIG: "~/.texlive2016/texmf-config"
+  TEXMFHOME: "~/texmf"
+  TEXMFLOCAL: "/usr/local/texlive/texmf-local"
+  TEXMFSYSCONFIG: "/usr/local/texlive/2016/texmf-config"
+  TEXMFSYSVAR: "/usr/local/texlive/2016/texmf-var"
+  TEXMFVAR: "~/.texlive2016/texmf-var"
+  binary_amd64-freebsd: "0"
+  binary_amd64-netbsd: "0"
+  binary_armel-linux: "0"
+  binary_armhf-linux: "0"
+  binary_i386-cygwin: "0"
+  binary_i386-freebsd: "0"
+  binary_i386-linux: "0"
+  binary_i386-netbsd: "0"
+  binary_i386-solaris: "0"
+  binary_powerpc-linux: "0"
+  binary_sparc-solaris: "0"
+  binary_universal-darwin: "0"
+  binary_win32: "0"
+  binary_x86_64-cygwin: "0"
+  binary_x86_64-darwin: "0"
+  binary_x86_64-linux: "1"
+  binary_x86_64-solaris: "0"
+  collection-basic: "1"
+  collection-bibtexextra: "1"
+  collection-binextra: "1"
+  collection-context: "1"
+  collection-fontsextra: "1"
+  collection-fontsrecommended: "1"
+  collection-fontutils: "1"
+  collection-formatsextra: "1"
+  collection-games: "1"
+  collection-genericextra: "1"
+  collection-genericrecommended: "1"
+  collection-htmlxml: "1"
+  collection-humanities: "1"
+  collection-langafrican: "1"
+  collection-langarabic: "1"
+  collection-langchinese: "1"
+  collection-langcjk: "1"
+  collection-langcyrillic: "1"
+  collection-langczechslovak: "1"
+  collection-langenglish: "1"
+  collection-langeuropean: "1"
+  collection-langfrench: "1"
+  collection-langgerman: "1"
+  collection-langgreek: "1"
+  collection-langindic: "1"
+  collection-langitalian: "1"
+  collection-langjapanese: "1"
+  collection-langkorean: "1"
+  collection-langother: "1"
+  collection-langpolish: "1"
+  collection-langportuguese: "1"
+  collection-langspanish: "1"
+  collection-latex: "1"
+  collection-latexextra: "1"
+  collection-latexrecommended: "1"
+  collection-luatex: "1"
+  collection-mathscience: "1"
+  collection-metapost: "1"
+  collection-music: "1"
+  collection-omega: "1"
+  collection-pictures: "1"
+  collection-plainextra: "1"
+  collection-pstricks: "1"
+  collection-publishers: "1"
+  collection-texworks: "1"
+  collection-wintools: "0"
+  collection-xetex: "1"
+  doc_splitting_supported: "1"
+  in_place: "0"
+  inst_platform: "x86_64-linux"
+  n_collections_available: "47"
+  n_collections_selected: "46"
+  n_systems_available: "17"
+  n_systems_selected: "1"
+  option_adjustrepo: "1"
+  option_autobackup: "1"
+  option_backupdir: "tlpkg/backups"
+  option_desktop_integration: "1"
+  option_doc: "1"
+  option_file_assocs: "1"
+  option_fmt: "1"
+  option_letter: "0"
+  option_menu_integration: "1"
+  option_path: "0"
+  option_post_code: "1"
+  option_src: "1"
+  option_sys_bin: "/usr/local/bin"
+  option_sys_info: "/usr/local/share/info"
+  option_sys_man: "/usr/local/share/man"
+  option_w32_multi_user: "1"
+  option_write18_restricted: "1"
+  page: "0"
+  portable: "0"
+  selected_scheme: "scheme-full"
+  src_splitting_supported: "1"
+  this_platform: "x86_64-linux"
+  total_size: "4808"
+Installing to: /usr/local/texlive/2016
+Installing [0001/3391, time/total: ??:??/??:??]: 12many [376k]
+Installing [0002/3391, time/total: 00:01/01:44:59]: 2up [66k]
+Installing [0003/3391, time/total: 00:02/02:58:50]: Asana-Math [482k]
+Installing [0004/3391, time/total: 00:04/02:50:49]: ESIEEcv [137k]
+Installing [0005/3391, time/total: 00:05/03:06:01]: FAQ-en [4971k]
+Installing [0006/3391, time/total: 00:07/45:43]: GS1 [1100k]
+Installing [0007/3391, time/total: 00:09/49:43]: HA-prosper [266k]
+Installing [0008/3391, time/total: 00:10/53:15]: IEEEconf [188k]
+Installing [0009/3391, time/total: 00:12/01:02:20]: IEEEtran [1323k]
+Installing [0010/3391, time/total: 00:13/57:29]: MemoirChapStyles [739k]
+Installing [0011/3391, time/total: 00:14/57:10]: SIstyle [338k]
+Installing [0012/3391, time/total: 00:16/01:03:08]: SIunits [284k]
+Installing [0013/3391, time/total: 00:17/01:05:13]: Tabbing [217k]
+Installing [0014/3391, time/total: 00:19/01:11:23]: Type1fonts [516k]
+Installing [0015/3391, time/total: 00:20/01:11:37]: a0poster [119k]
+Installing [0016/3391, time/total: 00:21/01:14:24]: a2ping [48k]
+Installing [0017/3391, time/total: 00:22/01:17:37]: a2ping.x86_64-linux [1k]
+Installing [0018/3391, time/total: 00:23/01:21:08]: a4wide [133k]
+Installing [0019/3391, time/total: 00:24/01:23:40]: a5comb [91k]
+Installing [0020/3391, time/total: 00:25/01:26:28]: aastex [1214k]
+Installing [0021/3391, time/total: 00:26/01:21:16]: abbr [4k]
+Installing [0022/3391, time/total: 00:27/01:24:22]: abc [288k]
+Installing [0023/3391, time/total: 00:29/01:28:36]: abntex2 [4455k]
+Installing [0024/3391, time/total: 00:31/01:10:23]: abraces [197k]
+Installing [0025/3391, time/total: 00:32/01:11:50]: abstract [154k]
+Installing [0026/3391, time/total: 00:33/01:13:27]: abstyles [151k]
+Installing [0027/3391, time/total: 00:34/01:15:02]: academicons [95k]
+Installing [0028/3391, time/total: 00:35/01:16:50]: accanthis [653k]
+Installing [0029/3391, time/total: 00:37/01:18:22]: accfonts [37k]
+Installing [0030/3391, time/total: 00:38/01:20:20]: accfonts.x86_64-linux [1k]
+Installing [0031/3391, time/total: 00:38/01:20:20]: achemso [897k]
+Installing [0032/3391, time/total: 00:40/01:20:40]: acmart [6286k]
+untar: untarring /tmp/EyZbOqRhBX/SVXfE7rDqH/acmart.doc.tar failed (in /usr/local/texlive/2016/texmf-dist)
+TLPDB::_install_package: untar failed
+Installation failed.
+Rerunning the installer will try to restart the installation.
+Or you can restart by running the installer with:
+  install-tl --profile installation.profile [EXTRA-ARGS]
