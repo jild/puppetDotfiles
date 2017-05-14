@@ -6,15 +6,16 @@ neovimAsStandard:
 	sudo ln -s /usr/bin/nvim /usr/bin/vi
 	sudo ln -s /usr/bin/nvim /usr/bin/vim
 
-
 neovimVundle:
 	cd $vimDotfilesDir; \
 	mkdir -p bundle; \
 	ln -s ../Vundle.vim bundle/Vundle.vim;
 
 zshPluginInstall:
-	curl https://cdn.rawgit.com/zsh-users/antigen/v1.4.1/bin/antigen.zsh > antigen.zsh
-	source antigen.zsh
+	cd /tmp; \
+	curl https://cdn.rawgit.com/zsh-users/antigen/v1.4.1/bin/antigen.zsh > antigen.zsh; \
+	source ./antigen.zsh
+	antigen init
 
 installOnArch: 
 	sudo pacman -Sy xclip # for neovim clipboard workaround
@@ -23,3 +24,4 @@ installOnArch:
 gitConfig:
 	git config --global user.email jakobwild@gmail.com
 	git config --global user.name "jild"
+
